@@ -16,7 +16,7 @@ Hide Process
 
 [初探进程伪装](https://xz.aliyun.com/t/10435)
 
-[修改PEB伪装进程]("https://macchiato.ink/hst/nwst/PEB/")
+[修改PEB伪装进程](https://macchiato.ink/hst/nwst/PEB/)
 
 # Author-Oxygen
 
