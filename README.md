@@ -20,5 +20,4 @@ Hide Process
 
 # Author-Oxygen
 
-E-mail:304914289@qq.com
-新建的群,没啥人,欢迎进入
+
